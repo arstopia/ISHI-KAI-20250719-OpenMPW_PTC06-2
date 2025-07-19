@@ -13,18 +13,20 @@ https://ishikai.connpass.com/event/356526/
 大変有意義なイベントを開催してくださりありがとうございました。
 
 ## スクリーンショット
-- 回路(インバータ)
+- インバータの回路図 (.schファイル, xschemにて作成)
 ![tk-inverter.png](images/tk-inverter.png)
 
-- DC解析 テストベンチ
+- DC解析 テストベンチ (.schファイル, xschemにて作成)
 ![tk-inverter-tb.png](images/tk-inverter-tb.png)
 
-- DC解析 シミュレーション結果
+- DC解析 シミュレーション結果 (ngspice使用)
 ![tk-inverter-tb-sim.png](images/tk-inverter-tb-sim.png)
 
-- トランジェント解析 テストベンチ
+- トランジェント解析 テストベンチ (.schファイル, xschemにて作成)
 ![tk-inverter-tb-tr.png](images/tk-inverter-tb-tr.png)
 
-- トランジェント解析 シミュレーション結果
+- トランジェント解析 シミュレーション結果 (ngspice使用)
 ![tk-inverter-tb-tr-sim.png](images/tk-inverter-tb-tr-sim.png)
 
+- チップのレイアウト (.gdsファイル, klayoutにて作成)
+![tk-inverter-gds.png](images/tk-inverter-gds.png)
